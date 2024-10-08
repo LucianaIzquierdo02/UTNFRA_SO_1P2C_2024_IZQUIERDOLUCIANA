@@ -1,0 +1,155 @@
+pwd
+whoami
+history -a
+exit
+tree
+sudo snap install tree
+ls
+mkdir repogit
+ls
+cd repogit
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/LucianaIzquierdo02/UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA.git
+tree UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+tree UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+vim Punto_A.sh
+ls
+rm Punto_A.sh
+ls
+tree
+ls
+cd UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+ls
+cd RTA_SCRIPT_Examen_20241007/
+ls
+ls -l
+vim Punto_A.sh
+chmod 764 Punto_A.sh
+ls -l
+./Punto_A.sh
+vim Punto_A.sh
+ls -l Punto_A.sh
+vim Punto_A.sh
+./Punto_A.sh 
+./Punto_A.sh
+ls -l
+vim Punto_A.sh
+tree /Examenes-UTN/
+ls -R /Examenes-UTN/
+tree
+tree ./Punto_A.sh
+cd ..
+sudo fdisk -l
+ls -l
+cd UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+vim Punto_B.sh
+cat Punto_B.sh
+ls -l
+chmod 764 Punto_B.sh
+ls -l
+vim Punto_C.sh
+chmod 764 Punto_C.sh
+ls -l
+sudo ./Punto_C.sh
+chmod +x Punto_C.sh
+ls -l
+sudo ./Punto_C.sh
+exit
+ls -l
+cd repogit
+ls -l
+cd UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+ls -l
+git add .
+git status
+git commit -m "primer push"
+git config --global user.email "lulinaizquierdo2@gmail.com"
+git config --global user.name "LucianaIzquierdo02"
+git push origin main
+git pull origin main
+git push origin main
+git status
+git add .
+git commit -m "Punto A"
+git push origin main
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls- l
+ls -l
+vim Punto_D.sh
+chmod 764 Punto_D.sh
+ls -l
+./Punto_D.sh
+cd ..
+ls -l
+tree EstructuraAsimetrica/
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_IZQUIERDOLUCIANA/
+git add .
+git commit -m"Punto D"
+git push origin main
+ls -l
+RTA_SCRIPT_Examen_20241007/
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+vim Punto_E.sh
+chmod 764 Punto_E.sh
+ls -l
+vim Punto_E.sh
+cd ..
+ls -l
+cd RTA_ARCHIVOS_Examen_20241007/
+ls -l
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+vim Punto_E.sh
+cd ..
+ls -l
+cd RTA_ARCHIVOS_Examen_20241007/
+ls -l
+cd ..
+RTA_SCRIPT_Examen_20241007/
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+cat Punto_E.sh
+./Punto_E.sh 
+cd ..
+ls -l
+cd RTA_ARCHIVOS_Examen_20241007/
+ls -l
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+vim Punto_F.sh
+chmod 764 Punto_F.sh
+ls -l
+./Punto_F.sh
+cd ..
+ls -l
+cd RTA_ARCHIVOS_Examen_20241007/
+ls -l
+cat Filtro_Avanzado.txt
+ls -l
+cd ..
+git add .
+git commit -m"Punto F"
+git push origin main
+ls -l
+cd RTA_SCRIPT_Examen_20241007/
+ls -l
+./Punto_B.sh 
+ls -l
+./Punto_C.sh
+ls -l
+cd ..
